@@ -4,11 +4,27 @@ https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-
 https://pl.reactjs.org/docs/create-a-new-react-app.html#create-react-app
 https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
 
+https://babeljs.io/
+https://webpack.js.org/concepts/
+https://nodejs.org/en/about/
+
 ###########
 
 ## install homebrew and then:
 brew install node
 npx create-react-app <nazwa-aplikacji>
+cd <nazwa-aplikacji>
+npm start
+
+## to upgrade app dependencies
+open <nazwa-aplikacji>/package.json
+change "react-scripts" version to the newest
+npm install
+
+
+### VS code plugins
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
 
 
 
