@@ -21,6 +21,10 @@ open <nazwa-aplikacji>/package.json
 change "react-scripts" version to the newest
 npm install
 
+## add dependency
+## e.g. install tachyon styles for css (https://tachyons.io/)
+npm install tachyons (this will also add dependency entry to package.json file)
+
 
 ### VS code plugins
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
