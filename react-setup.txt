@@ -3,6 +3,7 @@
 https://medium.com/@hayasnc/how-to-install-nodejs-and-npm-on-mac-using-homebrew-b33780287d8f
 https://pl.reactjs.org/docs/create-a-new-react-app.html#create-react-app
 https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
+https://blog.logrocket.com/rendering-sibling-elements-react-fragments/
 
 https://babeljs.io/
 https://webpack.js.org/concepts/
@@ -26,10 +27,8 @@ npm install
 npm install tachyons (this will also add dependency entry to package.json file)
 
 
-### VS code plugins
-https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
-
-
+### Other resources
+https://www.cleveroad.com/blog/angular-vs-react
 
 
 
